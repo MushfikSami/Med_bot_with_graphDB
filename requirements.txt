@@ -1,0 +1,4 @@
+langchain-perplexity 
+langchain-neo4j
+neo4j
+python-dotenv
